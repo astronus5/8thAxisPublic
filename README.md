@@ -9,4 +9,4 @@ Template:
 
 3. What circumstances was your character in at the time in detail
 
-4. Please post images of the bug and your invetory if applicable and capable
+4. Please post images of the bug and your inventory if applicable and capable
