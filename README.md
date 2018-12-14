@@ -1,12 +1,15 @@
-# AOT-Bug-Repository
-Submit bugs found on 8thAxis's Attack On Titan server
+# 8thAxis bug repository
+Submit bugs found on 8thAxis's servers
 
 Template:
 
-1. Describe your bug in detail and the effects it has
+1. Server bug found on
 
-2. How can one replicate this bug
+2. Describe your bug in detail and the effects it has
 
-3. What circumstances was your character in at the time in detail
+3. How can one replicate this bug
 
-4. Please post images of the bug and your inventory if applicable and capable
+4. What circumstances was your character in at the time in detail
+
+5. Please post images of the bug and your inventory if able and any other
+   relevant information
